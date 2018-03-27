@@ -12,7 +12,7 @@ class Game
   def logic()
     winning = { "paper" => "rock", "rock" => "scissors", "scissors" => "paper" }
     if @player1 == @player2
-      return "draw"
+      return "it's a draw"
     elsif
       winning[@player1] == @player2
       return @player1

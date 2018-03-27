@@ -25,5 +25,4 @@ class TestGame < MiniTest::Test
     assert_equal("scissors", result)
   end
 
-
 end
