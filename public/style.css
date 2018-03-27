@@ -1,0 +1,39 @@
+
+
+body {
+  background-color: #75baaf;
+}
+
+nav {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h1 {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  line-height: normal;
+}
+
+a:link {
+  color: #c18b8b;
+}
+
+a:visited {
+  color: #c08bc1;
+}
+
+p {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+i {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+}
